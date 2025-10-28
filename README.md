@@ -10,7 +10,7 @@ This repository documents my progress as I move from building neural networks *f
 |-------|-----------|-------------|
 | 🧩 1 | [`build_neural_network_with_numpy.ipynb`](build_neural_network_with_numpy.ipynb) | Building a simple neural network **from scratch using NumPy** — no deep learning frameworks, full manual backpropagation! |
 | 📊 2 | [`CIFAR10_HOG_vs_Raw_SVM.ipynb`](CIFAR10_HOG_vs_Raw_SVM.ipynb) | Comparing **classical CV features (HOG)** vs. **raw pixel data** using an SVM classifier on CIFAR-10. |
-| 🧠 3 | [`cifar_10.ipynb`](cifar_10.ipynb) | Implementing a **Convolutional Neural Network (CNN)** for CIFAR-10 image classification using PyTorch/TensorFlow. |
+| 🧠 3 | [`cifar_10.ipynb`](cifar_10.ipynb) | Implementing a **Convolutional Neural Network (CNN)** for CIFAR-10 image classification using SVM and KNN. |
 
 ---
 
